@@ -1,2 +1,1 @@
-# Youtube-Channels
- Website for my YT
+This is not avabile for others to use, just me and my friend.
