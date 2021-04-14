@@ -1,0 +1,17 @@
+.red-box {
+    background-color: red;
+    padding: 10px; 
+    border: 1px solid black;
+}
+
+    .sans {
+        font-family: 'PT Sans', sans-serif;
+    }
+
+    .center {
+    text-align: center;
+    }
+    
+    .grey-box {
+    background-color: gray;
+    }
