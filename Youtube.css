@@ -4,3 +4,6 @@ background-color: red;
 .sans {
     font-family: 'PT Sans', sans-serif;
 }
+.center {
+text-align: center;
+}
