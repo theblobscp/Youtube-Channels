@@ -3,6 +3,11 @@
     padding: 10px; 
     border: 1px solid black;
 }
+.white-box{
+background-color: white;
+padding: 10px;
+border: 1px solid black;
+}
 .sans{
     font-family: 'PT Sans', sans-serif;
 }
