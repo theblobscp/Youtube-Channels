@@ -34,3 +34,7 @@ background-color: #333333;
 .form-bg{
 background-color: #d1c4e9;
 }
+.flex{
+display: flex;
+flex-direction: row;
+}
