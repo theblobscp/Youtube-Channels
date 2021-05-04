@@ -1,0 +1,46 @@
+.red-box{
+    background-color: red;
+    padding: 10px; 
+    border: 1px solid black;
+}
+.white-box{
+background-color: white;
+padding: 10px;
+border: 1px solid black;
+}
+.sans{
+    font-family: 'PT Sans', sans-serif;
+}
+.center{
+    text-align: center;
+}  
+.grey-bg{
+    background-color: gray;
+}
+.yt{
+background-color: red;
+padding: auto;
+}
+.twitter{
+background-color: cyan;
+padding: auto;
+}
+.discord{
+background-color: #7289da;
+}
+.github{
+background-color: #333333;
+}
+.form-bg{
+background-color: #d1c4e9;
+}
+.flex{
+display: flex;
+flex-direction: row;
+}
+.white-text{
+color: white;
+}
+.border{
+border: 1px solid black;
+}
