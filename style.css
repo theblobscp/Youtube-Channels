@@ -1,7 +1,7 @@
 .red-box{
-    background-color: red;
-    padding: 10px; 
-    border: 1px solid black;
+background-color: red;
+padding: 10px; 
+border: 1px solid black;
 }
 .white-box{
 background-color: white;
@@ -9,13 +9,13 @@ padding: 10px;
 border: 1px solid black;
 }
 .sans{
-    font-family: 'PT Sans', sans-serif;
+font-family: 'PT Sans', sans-serif;
 }
 .center{
-    text-align: center;
+text-align: center;
 }  
 .grey-bg{
-    background-color: gray;
+background-color: gray;
 }
 .yt{
 background-color: red;
